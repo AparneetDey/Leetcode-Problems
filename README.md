@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/AparneetDey/Leetcode-Problems/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/AparneetDey/Leetcode-Problems/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/AparneetDey/Leetcode-Problems/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Sorting
 |  |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/AparneetDey/Leetcode-Problems/tree/master/0202-happy-number) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/AparneetDey/Leetcode-Problems/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
