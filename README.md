@@ -127,4 +127,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AparneetDey/Leetcode-Problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/AparneetDey/Leetcode-Problems/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Linked List
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/AparneetDey/Leetcode-Problems/tree/master/0203-remove-linked-list-elements) |
+## Recursion
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/AparneetDey/Leetcode-Problems/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
