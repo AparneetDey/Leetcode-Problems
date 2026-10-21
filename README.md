@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AparneetDey/Leetcode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AparneetDey/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0307-range-sum-query-mutable](https://github.com/AparneetDey/Leetcode-Problems/tree/master/0307-range-sum-query-mutable) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AparneetDey/Leetcode-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/AparneetDey/Leetcode-Problems/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/AparneetDey/Leetcode-Problems/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AparneetDey/Leetcode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0307-range-sum-query-mutable](https://github.com/AparneetDey/Leetcode-Problems/tree/master/0307-range-sum-query-mutable) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -127,11 +129,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/AparneetDey/Leetcode-Problems/tree/master/0307-range-sum-query-mutable) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AparneetDey/Leetcode-Problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/AparneetDey/Leetcode-Problems/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## Segment Tree
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/AparneetDey/Leetcode-Problems/tree/master/0307-range-sum-query-mutable) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AparneetDey/Leetcode-Problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/AparneetDey/Leetcode-Problems/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## Linked List
@@ -142,4 +146,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/AparneetDey/Leetcode-Problems/tree/master/0203-remove-linked-list-elements) |
+## Design
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/AparneetDey/Leetcode-Problems/tree/master/0307-range-sum-query-mutable) |
+## Sqrt Decomposition
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/AparneetDey/Leetcode-Problems/tree/master/0307-range-sum-query-mutable) |
 <!---LeetCode Topics End-->
