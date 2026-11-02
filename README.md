@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AparneetDey/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0307-range-sum-query-mutable](https://github.com/AparneetDey/Leetcode-Problems/tree/master/0307-range-sum-query-mutable) |
 | [1254-number-of-closed-islands](https://github.com/AparneetDey/Leetcode-Problems/tree/master/1254-number-of-closed-islands) |
+| [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/AparneetDey/Leetcode-Problems/tree/master/1986-minimum-number-of-work-sessions-to-finish-the-tasks) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AparneetDey/Leetcode-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/AparneetDey/Leetcode-Problems/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/AparneetDey/Leetcode-Problems/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AparneetDey/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/AparneetDey/Leetcode-Problems/tree/master/1986-minimum-number-of-work-sessions-to-finish-the-tasks) |
 | [3665-twisted-mirror-path-count](https://github.com/AparneetDey/Leetcode-Problems/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/AparneetDey/Leetcode-Problems/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Two Pointers
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/AparneetDey/Leetcode-Problems/tree/master/1986-minimum-number-of-work-sessions-to-finish-the-tasks) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/AparneetDey/Leetcode-Problems/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/AparneetDey/Leetcode-Problems/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Union-Find
@@ -218,4 +221,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/AparneetDey/Leetcode-Problems/tree/master/0802-find-eventual-safe-states) |
+## Backtracking
+|  |
+| ------- |
+| [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/AparneetDey/Leetcode-Problems/tree/master/1986-minimum-number-of-work-sessions-to-finish-the-tasks) |
+## Bitmask
+|  |
+| ------- |
+| [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/AparneetDey/Leetcode-Problems/tree/master/1986-minimum-number-of-work-sessions-to-finish-the-tasks) |
 <!---LeetCode Topics End-->
