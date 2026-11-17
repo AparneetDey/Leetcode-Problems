@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/AparneetDey/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/AparneetDey/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/AparneetDey/Leetcode-Problems/tree/master/0704-binary-search) |
+| [0739-daily-temperatures](https://github.com/AparneetDey/Leetcode-Problems/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/AparneetDey/Leetcode-Problems/tree/master/0875-koko-eating-bananas) |
 | [1254-number-of-closed-islands](https://github.com/AparneetDey/Leetcode-Problems/tree/master/1254-number-of-closed-islands) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/AparneetDey/Leetcode-Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/AparneetDey/Leetcode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AparneetDey/Leetcode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/AparneetDey/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/AparneetDey/Leetcode-Problems/tree/master/0739-daily-temperatures) |
 ## Hash Table
 |  |
 | ------- |
@@ -262,4 +264,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/AparneetDey/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/AparneetDey/Leetcode-Problems/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
