@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AparneetDey/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0303-range-sum-query-immutable](https://github.com/AparneetDey/Leetcode-Problems/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/AparneetDey/Leetcode-Problems/tree/master/0307-range-sum-query-mutable) |
+| [0496-next-greater-element-i](https://github.com/AparneetDey/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/AparneetDey/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/AparneetDey/Leetcode-Problems/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/AparneetDey/Leetcode-Problems/tree/master/0875-koko-eating-bananas) |
@@ -146,11 +147,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/AparneetDey/Leetcode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AparneetDey/Leetcode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0496-next-greater-element-i](https://github.com/AparneetDey/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 ## Hash Table
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/AparneetDey/Leetcode-Problems/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/AparneetDey/Leetcode-Problems/tree/master/0208-implement-trie-prefix-tree) |
+| [0496-next-greater-element-i](https://github.com/AparneetDey/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/AparneetDey/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AparneetDey/Leetcode-Problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/AparneetDey/Leetcode-Problems/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
@@ -255,4 +258,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/AparneetDey/Leetcode-Problems/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/AparneetDey/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [3364-minimum-positive-sum-subarray](https://github.com/AparneetDey/Leetcode-Problems/tree/master/3364-minimum-positive-sum-subarray) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/AparneetDey/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
