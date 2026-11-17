@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/AparneetDey/Leetcode-Problems/tree/master/0078-subsets) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AparneetDey/Leetcode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AparneetDey/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0204-count-primes](https://github.com/AparneetDey/Leetcode-Problems/tree/master/0204-count-primes) |
 | [0303-range-sum-query-immutable](https://github.com/AparneetDey/Leetcode-Problems/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/AparneetDey/Leetcode-Problems/tree/master/0307-range-sum-query-mutable) |
 | [0347-top-k-frequent-elements](https://github.com/AparneetDey/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/AparneetDey/Leetcode-Problems/tree/master/0204-count-primes) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/AparneetDey/Leetcode-Problems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3886-sum-of-sortable-integers](https://github.com/AparneetDey/Leetcode-Problems/tree/master/3886-sum-of-sortable-integers) |
 ## Tree
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/AparneetDey/Leetcode-Problems/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/AparneetDey/Leetcode-Problems/tree/master/0204-count-primes) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/AparneetDey/Leetcode-Problems/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/AparneetDey/Leetcode-Problems/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3886-sum-of-sortable-integers](https://github.com/AparneetDey/Leetcode-Problems/tree/master/3886-sum-of-sortable-integers) |
@@ -312,4 +315,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/AparneetDey/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/AparneetDey/Leetcode-Problems/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/AparneetDey/Leetcode-Problems/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/AparneetDey/Leetcode-Problems/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/AparneetDey/Leetcode-Problems/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
