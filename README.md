@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0202-happy-number](https://github.com/AparneetDey/Leetcode-Problems/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/AparneetDey/Leetcode-Problems/tree/master/0204-count-primes) |
+| [0292-nim-game](https://github.com/AparneetDey/Leetcode-Problems/tree/master/0292-nim-game) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/AparneetDey/Leetcode-Problems/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/AparneetDey/Leetcode-Problems/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3886-sum-of-sortable-integers](https://github.com/AparneetDey/Leetcode-Problems/tree/master/3886-sum-of-sortable-integers) |
@@ -331,4 +332,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/AparneetDey/Leetcode-Problems/tree/master/0204-count-primes) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/AparneetDey/Leetcode-Problems/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/AparneetDey/Leetcode-Problems/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/AparneetDey/Leetcode-Problems/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/AparneetDey/Leetcode-Problems/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/AparneetDey/Leetcode-Problems/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
