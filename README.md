@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/AparneetDey/Leetcode-Problems/tree/master/0016-3sum-closest) |
+| [0242-valid-anagram](https://github.com/AparneetDey/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/AparneetDey/Leetcode-Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AparneetDey/Leetcode-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/AparneetDey/Leetcode-Problems/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/AparneetDey/Leetcode-Problems/tree/master/0125-valid-palindrome) |
 | [0208-implement-trie-prefix-tree](https://github.com/AparneetDey/Leetcode-Problems/tree/master/0208-implement-trie-prefix-tree) |
+| [0242-valid-anagram](https://github.com/AparneetDey/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/AparneetDey/Leetcode-Problems/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Stack
 |  |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/AparneetDey/Leetcode-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/AparneetDey/Leetcode-Problems/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/AparneetDey/Leetcode-Problems/tree/master/0208-implement-trie-prefix-tree) |
+| [0242-valid-anagram](https://github.com/AparneetDey/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/AparneetDey/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/AparneetDey/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AparneetDey/Leetcode-Problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
