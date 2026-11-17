@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0307-range-sum-query-mutable](https://github.com/AparneetDey/Leetcode-Problems/tree/master/0307-range-sum-query-mutable) |
 | [0560-subarray-sum-equals-k](https://github.com/AparneetDey/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/AparneetDey/Leetcode-Problems/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/AparneetDey/Leetcode-Problems/tree/master/0875-koko-eating-bananas) |
 | [1254-number-of-closed-islands](https://github.com/AparneetDey/Leetcode-Problems/tree/master/1254-number-of-closed-islands) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/AparneetDey/Leetcode-Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/AparneetDey/Leetcode-Problems/tree/master/1986-minimum-number-of-work-sessions-to-finish-the-tasks) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/AparneetDey/Leetcode-Problems/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/AparneetDey/Leetcode-Problems/tree/master/0875-koko-eating-bananas) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/AparneetDey/Leetcode-Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AparneetDey/Leetcode-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/AparneetDey/Leetcode-Problems/tree/master/2333-minimum-sum-of-squared-difference) |
