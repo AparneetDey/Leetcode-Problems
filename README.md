@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/AparneetDey/Leetcode-Problems/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AparneetDey/Leetcode-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0125-valid-palindrome](https://github.com/AparneetDey/Leetcode-Problems/tree/master/0125-valid-palindrome) |
+| [0143-reorder-list](https://github.com/AparneetDey/Leetcode-Problems/tree/master/0143-reorder-list) |
 | [0202-happy-number](https://github.com/AparneetDey/Leetcode-Problems/tree/master/0202-happy-number) |
 | [0876-middle-of-the-linked-list](https://github.com/AparneetDey/Leetcode-Problems/tree/master/0876-middle-of-the-linked-list) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/AparneetDey/Leetcode-Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/AparneetDey/Leetcode-Problems/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AparneetDey/Leetcode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AparneetDey/Leetcode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/AparneetDey/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
@@ -188,11 +190,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AparneetDey/Leetcode-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0143-reorder-list](https://github.com/AparneetDey/Leetcode-Problems/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/AparneetDey/Leetcode-Problems/tree/master/0203-remove-linked-list-elements) |
 | [0876-middle-of-the-linked-list](https://github.com/AparneetDey/Leetcode-Problems/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/AparneetDey/Leetcode-Problems/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/AparneetDey/Leetcode-Problems/tree/master/0203-remove-linked-list-elements) |
 ## Design
 |  |
