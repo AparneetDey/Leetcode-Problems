@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/AparneetDey/Leetcode-Problems/tree/master/0016-3sum-closest) |
 | [0039-combination-sum](https://github.com/AparneetDey/Leetcode-Problems/tree/master/0039-combination-sum) |
+| [0049-group-anagrams](https://github.com/AparneetDey/Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0078-subsets](https://github.com/AparneetDey/Leetcode-Problems/tree/master/0078-subsets) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AparneetDey/Leetcode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AparneetDey/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/AparneetDey/Leetcode-Problems/tree/master/0016-3sum-closest) |
+| [0049-group-anagrams](https://github.com/AparneetDey/Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/AparneetDey/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/AparneetDey/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/AparneetDey/Leetcode-Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/AparneetDey/Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/AparneetDey/Leetcode-Problems/tree/master/0125-valid-palindrome) |
 | [0208-implement-trie-prefix-tree](https://github.com/AparneetDey/Leetcode-Problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/AparneetDey/Leetcode-Problems/tree/master/0242-valid-anagram) |
@@ -177,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/AparneetDey/Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/AparneetDey/Leetcode-Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AparneetDey/Leetcode-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/AparneetDey/Leetcode-Problems/tree/master/0202-happy-number) |
