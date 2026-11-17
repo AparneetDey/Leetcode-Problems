@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AparneetDey/Leetcode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AparneetDey/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0204-count-primes](https://github.com/AparneetDey/Leetcode-Problems/tree/master/0204-count-primes) |
+| [0239-sliding-window-maximum](https://github.com/AparneetDey/Leetcode-Problems/tree/master/0239-sliding-window-maximum) |
 | [0303-range-sum-query-immutable](https://github.com/AparneetDey/Leetcode-Problems/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/AparneetDey/Leetcode-Problems/tree/master/0307-range-sum-query-mutable) |
 | [0347-top-k-frequent-elements](https://github.com/AparneetDey/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/AparneetDey/Leetcode-Problems/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/AparneetDey/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/AparneetDey/Leetcode-Problems/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Enumeration
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/AparneetDey/Leetcode-Problems/tree/master/0239-sliding-window-maximum) |
 | [0643-maximum-average-subarray-i](https://github.com/AparneetDey/Leetcode-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [3364-minimum-positive-sum-subarray](https://github.com/AparneetDey/Leetcode-Problems/tree/master/3364-minimum-positive-sum-subarray) |
 ## Prefix Sum
@@ -358,4 +361,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/AparneetDey/Leetcode-Problems/tree/master/0292-nim-game) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/AparneetDey/Leetcode-Problems/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/AparneetDey/Leetcode-Problems/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/AparneetDey/Leetcode-Problems/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
