@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AparneetDey/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1143-longest-common-subsequence](https://github.com/AparneetDey/Leetcode-Problems/tree/master/1143-longest-common-subsequence) |
 | [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/AparneetDey/Leetcode-Problems/tree/master/1986-minimum-number-of-work-sessions-to-finish-the-tasks) |
 | [3665-twisted-mirror-path-count](https://github.com/AparneetDey/Leetcode-Problems/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/AparneetDey/Leetcode-Problems/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/AparneetDey/Leetcode-Problems/tree/master/0125-valid-palindrome) |
 | [0208-implement-trie-prefix-tree](https://github.com/AparneetDey/Leetcode-Problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/AparneetDey/Leetcode-Problems/tree/master/0242-valid-anagram) |
+| [1143-longest-common-subsequence](https://github.com/AparneetDey/Leetcode-Problems/tree/master/1143-longest-common-subsequence) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/AparneetDey/Leetcode-Problems/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Stack
 |  |
@@ -373,4 +375,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/AparneetDey/Leetcode-Problems/tree/master/0239-sliding-window-maximum) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/AparneetDey/Leetcode-Problems/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
